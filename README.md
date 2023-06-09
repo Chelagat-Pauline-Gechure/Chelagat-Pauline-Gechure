@@ -2,12 +2,12 @@
 <p align="center" ><i>A Passionate Software Engineer</i></p>
 
 <p align="center">
-<a href="https://github.com/Chelagat-Pauline-Gechure/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chelagat-Pauline-Gechure&theme=vue&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Chelagat-Pauline-Gechure/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chelagat-Pauline-Gechure&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
+  <a href="https://github.com/Chelagat-Pauline-Gechure/github-readme-activity-graph#gh-light-mode-only">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Chelagat-Pauline-Gechure&theme=vue&area=true&hide_border=true" width="100%">
+  </a>
+  <a href="https://github.com/Chelagat-Pauline-Gechure/github-readme-activity-graph#gh-dark-mode-only">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Chelagat-Pauline-Gechure&theme=dracula&area=true&hide_border=true" width="100%">
+  </a>
 </p>
   
 <p><img align="left" src=https://github-readme-stats.vercel.app/api?username=Chelagat-Pauline-Gechure&theme=vue-dark&show_icons=true&hide_border=true&count_private=true/></p>
